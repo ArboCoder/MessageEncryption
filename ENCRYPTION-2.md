@@ -12,8 +12,8 @@ If the final result letter is a vowel, replace it with the character underneath 
 
 `H` ->
 For example, `H` would turn to `A`. `A` is the first letter of the alphabet. 1 is an odd number, so `H` (original number) would turn into `F`.
+                            
+## Examples     
 
-## Examples
-
-`Hey` ->  
+`Hey` ->      
 `Fdo`
